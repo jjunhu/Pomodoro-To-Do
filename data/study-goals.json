@@ -1,0 +1,12 @@
+{"goals": [
+    {
+        "required time": 1,
+        "name": "Cpsc210",
+        "status": false
+    },
+    {
+        "required time": 1,
+        "name": "CSCPC",
+        "status": false
+    }
+]}

@@ -1,0 +1,12 @@
+{"goals": [
+    {
+        "required time": 2,
+        "name": "science",
+        "status": false
+    },
+    {
+        "required time": 4,
+        "name": "business",
+        "status": true
+    }
+]}

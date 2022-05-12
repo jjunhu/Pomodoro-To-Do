@@ -1,0 +1,12 @@
+{"goals": [
+  {
+    "required time": 2,
+    "name": "math",
+    "status": true
+  },
+  {
+    "required time": 3,
+    "name": "english",
+    "status": false
+  }
+]}
