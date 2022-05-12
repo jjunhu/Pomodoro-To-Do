@@ -1,5 +1,8 @@
 # Trackmodoro
 
+## Disclaimer
+This project was conducted as my first Java based application. 
+
 ## A *Day-in-the-life* Tracker
 
 Some functionalities of **Trackmodoro**:
