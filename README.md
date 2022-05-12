@@ -1,7 +1,7 @@
 # Trackmodoro
 
 ## Disclaimer
-This project was conducted as my first Java based application. 
+This project was conducted as my first application in Java. 
 
 ## A *Day-in-the-life* Tracker
 
