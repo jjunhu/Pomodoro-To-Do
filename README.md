@@ -37,7 +37,7 @@ and completion status.
 - As a user, I want to be able to save my study-goal list to file.
 - As a user, I want to be able to retrieve my study-goal list from the file. 
 
-## Phase 4: Task 2
+## Final Thoughts
 
 - Option 1: Test and design a class in your model package that is robust. The exception is thrown in the constructor 
 for the Task class (public Task (String task, int num) throws NoTaskTimeException).  
@@ -45,7 +45,7 @@ for the Task class (public Task (String task, int num) throws NoTaskTimeExceptio
 - Option 2: Include a type hierarchy in your code. Tools class is the abstract superclass, and AddTool, RemoveTool, 
 RetrieveTool, SaveTool, SetCompleteTool, and StartStopTool are its subclasses. 
 
-## Phase 4: Task 3
+## Final Thoughts
 
 - Change 1: To reduce coupling. So far, when I update my ListModel in the GUI I have to update my StudyGoal object 
 together with it. For example, when I add a task to StudyGoals, I would need to add a new entry in my ListModel as well.
