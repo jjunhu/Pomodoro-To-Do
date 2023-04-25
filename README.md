@@ -1,4 +1,4 @@
-# Trackmodoro
+# Pomodoro Study
 
 ## Disclaimer
 This project was conducted as my first application in Java. It was stored locally and later pushed to GitHub. 
